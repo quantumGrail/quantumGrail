@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quantumGrail
 - 👀 I’m interested in Python-based applications.
-- 🌱 I’m currently learning Python and Selenuim.
+- 🌱 I’m currently learning Selenuim.
 - 💞️ I’m looking to collaborate on testing software.
 - 📫 Reach out and send a message.
 
